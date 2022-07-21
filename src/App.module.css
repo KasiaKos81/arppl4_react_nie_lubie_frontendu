@@ -1,0 +1,19 @@
+:root {
+  --background:#DCC2B9; /* zmienne trzymajace kolory */
+  --header:#9F2B2B;
+  --footer: #429EA6;
+  --body: #ECEBE4;
+  --button-color: white;
+  --card-color: #F59C16;
+  --border-color: black;
+}
+
+html{
+  background-color: #DCC2B9;
+}
+
+.App {
+  text-align: center;
+}
+
+

@@ -1,0 +1,11 @@
+.AppFooter{
+    background-color: var(--footer);
+    height: 24px;
+    width: 80vw;
+    position: absolute;
+    bottom: 0;
+    left: 10vw;
+    right: 10vw;
+    text-align: right;
+   
+}
